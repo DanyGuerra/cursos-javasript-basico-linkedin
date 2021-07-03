@@ -8,4 +8,4 @@ var instrucción = "El platillo se llama 'ceviche' ";
 
 var edad = 34;
 
-var edadtxt = String(edad)
+var edadtxt = String(edad);
