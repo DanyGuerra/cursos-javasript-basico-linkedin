@@ -7,10 +7,10 @@ var saludar = nombre => "Hola " + nombre;
 
 console.log(saludar("Susana"));
 
-var sumar = cantidad => cantidad + 10
+var sumar = cantidad => cantidad + 10;
 console.log(sumar(10));
 
-var calcular = (datoA, datoB) => datoA + datoB
+var calcular = (datoA, datoB) => datoA + datoB;
 console.log(calcular(10, 15));
 
 var generar = (datoA, datoB) => {
